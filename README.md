@@ -10,7 +10,7 @@ A instalacao ocorreu perfeitamente usando o Linux Mint 18.3 (Sylvia);
 
 * Copie e cole a linha a baixo 
 ```
-wget https://raw.githubusercontent.com/livioweb/DevelopmentEnvironment/master/install_dev_env.sh
+wget https://raw.githubusercontent.com/mesquitadev/DevelopmentEnvironment/master/install_dev_env.sh
 ```
 * Salve na seguinte forma:
 ````
