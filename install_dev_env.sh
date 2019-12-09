@@ -1,11 +1,19 @@
 #!/usr/bin/env bash
 #Livio Rodrigues
+#Victor Mesquita
 #Versao 1.0.1
 
 sudo apt-get update
 
+#install apache
+sudo apt-get install -y apache2
+
 #install php
 sudo apt-get -y install php
+
+#install mysql
+sudo apt-get install -y myql-server
+sudo mysql_secure_installation -y
 
 #install version code GIT
 sudo apt-get -y install git
